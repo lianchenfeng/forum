@@ -10,7 +10,7 @@
     <link rel="stylesheet" href="/static/css/style.css">
 </head>
 <body>
-<%@ include file="include/nav.jsp" %>
+<%@include file="include/nav.jsp" %>
 <!--header-b ar end-->
 <div class="container">
     <div class="box">
